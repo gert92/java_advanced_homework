@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f9ae28-886a-4cce-bbb7-d4f16a7c3d15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task4/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Resizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task4/ResizableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task5/CannotDivideBy0Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task6/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task6/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task6/NoBookFoundExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task7/Weekday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task8/PackageSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task9/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task9/TemperatureConvert.java" afterDir="false" />
-    </list>
+    <list default="true" id="51f9ae28-886a-4cce-bbb7-d4f16a7c3d15" name="Changes" comment="homework 1-9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Application.task9.Main">
@@ -157,6 +125,13 @@
       <option name="presentableId" value="Default" />
       <updated>1655047492883</updated>
     </task>
+    <task id="LOCAL−00001" summary="homework 1-9">
+      <created>1655064920610</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1655064920610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 1-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 1-9" />
   </component>
 </project>
