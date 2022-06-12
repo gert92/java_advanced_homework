@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51f9ae28-886a-4cce-bbb7-d4f16a7c3d15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task4/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task4/ResizableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task5/CannotDivideBy0Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task6/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task6/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task6/NoBookFoundExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task7/Weekday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task8/PackageSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task9/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task9/TemperatureConvert.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ATxgqjzI85gzoQ7BZ7Whl4toqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.task9.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task8.Main" />
+      <module name="java_advanced_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.Main" />
+      <module name="java_advanced_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6.Main" />
+      <module name="java_advanced_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task7.Main" />
+      <module name="java_advanced_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task9.Main" />
+      <module name="java_advanced_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task9.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.task7.Main" />
+        <item itemvalue="Application.task6.Main" />
+        <item itemvalue="Application.task5.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51f9ae28-886a-4cce-bbb7-d4f16a7c3d15" name="Changes" comment="" />
+      <created>1655047492883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655047492883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
